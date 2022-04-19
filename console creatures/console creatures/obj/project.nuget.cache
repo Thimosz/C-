@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0o199uQHNYCfjPnc++reUcKLlcXLSIbEfKDrjyeXDb5XZD2aZZHdYSj6oUDAJnCJvcBTonKocQy/yZolRcvP1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thimosz\\Desktop\\C#\\console creatures\\console creatures\\console creatures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thimosz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
