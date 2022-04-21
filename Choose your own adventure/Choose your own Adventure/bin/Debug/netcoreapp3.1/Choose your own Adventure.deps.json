@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Choose your own Adventure/1.0.0": {
+        "runtime": {
+          "Choose your own Adventure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Choose your own Adventure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

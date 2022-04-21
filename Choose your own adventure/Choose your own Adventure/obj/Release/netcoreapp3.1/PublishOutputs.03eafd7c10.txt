@@ -1,0 +1,5 @@
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure.exe
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure.dll
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure.deps.json
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure.runtimeconfig.json
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure.pdb

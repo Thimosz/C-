@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DXe4qwrzgRZ71hYI3jBXy0rXNf40gIo/jyfB6rEWL9zje75QCd7uN6OwgTPZjPSk3PVx95gXm1SaLG9Ml7Sslg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thimosz\\Desktop\\C#\\Choose your own adventure\\Choose your own Adventure\\Choose your own Adventure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thimosz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

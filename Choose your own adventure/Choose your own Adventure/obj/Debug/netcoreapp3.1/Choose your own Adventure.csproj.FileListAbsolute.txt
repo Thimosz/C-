@@ -1,0 +1,13 @@
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\bin\Debug\netcoreapp3.1\Choose your own Adventure.exe
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\bin\Debug\netcoreapp3.1\Choose your own Adventure.deps.json
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\bin\Debug\netcoreapp3.1\Choose your own Adventure.runtimeconfig.json
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\bin\Debug\netcoreapp3.1\Choose your own Adventure.runtimeconfig.dev.json
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\bin\Debug\netcoreapp3.1\Choose your own Adventure.dll
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\bin\Debug\netcoreapp3.1\Choose your own Adventure.pdb
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\obj\Debug\netcoreapp3.1\Choose your own Adventure.csprojAssemblyReference.cache
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\obj\Debug\netcoreapp3.1\Choose your own Adventure.AssemblyInfoInputs.cache
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\obj\Debug\netcoreapp3.1\Choose your own Adventure.AssemblyInfo.cs
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\obj\Debug\netcoreapp3.1\Choose your own Adventure.csproj.CoreCompileInputs.cache
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\obj\Debug\netcoreapp3.1\Choose your own Adventure.dll
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\obj\Debug\netcoreapp3.1\Choose your own Adventure.pdb
+C:\Users\Thimosz\Desktop\C#\Choose your own adventure\Choose your own Adventure\obj\Debug\netcoreapp3.1\Choose your own Adventure.genruntimeconfig.cache
