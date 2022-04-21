@@ -1,0 +1,5 @@
+C:\Users\Thimosz\Desktop\C#\Password checker\Password checker.exe
+C:\Users\Thimosz\Desktop\C#\Password checker\Password checker.dll
+C:\Users\Thimosz\Desktop\C#\Password checker\Password checker.deps.json
+C:\Users\Thimosz\Desktop\C#\Password checker\Password checker.runtimeconfig.json
+C:\Users\Thimosz\Desktop\C#\Password checker\Password checker.pdb
