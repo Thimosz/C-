@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "csrS8Ja3CCbxzOHvH63h+ovKufvhQ9qJYv+O8kgqHaUSJ2KGM8RvwpKjmhkaib4S5tvM6vcV2Hlx0d2DFfjlJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thimosz\\Desktop\\C#\\Corpse Creatior\\Corpse Creatior.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thimosz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

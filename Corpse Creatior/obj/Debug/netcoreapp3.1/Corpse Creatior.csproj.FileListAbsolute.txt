@@ -1,0 +1,13 @@
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\obj\Debug\netcoreapp3.1\Corpse Creatior.csprojAssemblyReference.cache
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\obj\Debug\netcoreapp3.1\Corpse Creatior.AssemblyInfoInputs.cache
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\obj\Debug\netcoreapp3.1\Corpse Creatior.AssemblyInfo.cs
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\obj\Debug\netcoreapp3.1\Corpse Creatior.csproj.CoreCompileInputs.cache
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\bin\Debug\netcoreapp3.1\Corpse Creatior.exe
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\bin\Debug\netcoreapp3.1\Corpse Creatior.deps.json
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\bin\Debug\netcoreapp3.1\Corpse Creatior.runtimeconfig.json
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\bin\Debug\netcoreapp3.1\Corpse Creatior.runtimeconfig.dev.json
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\bin\Debug\netcoreapp3.1\Corpse Creatior.dll
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\bin\Debug\netcoreapp3.1\Corpse Creatior.pdb
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\obj\Debug\netcoreapp3.1\Corpse Creatior.dll
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\obj\Debug\netcoreapp3.1\Corpse Creatior.pdb
+C:\Users\Thimosz\Desktop\C#\Corpse Creatior\obj\Debug\netcoreapp3.1\Corpse Creatior.genruntimeconfig.cache

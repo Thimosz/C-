@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "utMxPpyu2W2SQME/VjcqwM5a3MYWNkNAD0r40xt8NRMqPxQpUtU9DcY2i/5OW08xzfXeh4rmQ8nfQKndzHg5Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thimosz\\Desktop\\C#\\Architect Arithmetic\\Architect Aritmetic\\Architect Aritmetic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thimosz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
